@@ -6,6 +6,8 @@ public class Employee {
 		System.out.println("enter the no");
 		System.out.println("amma done");
 		System.out.println("appa done");
+		System.out.println("amma repetedly doing work");
+		System.out.println(" amma is everything");
 		
 	}
 		
