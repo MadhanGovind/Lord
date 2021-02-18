@@ -6,7 +6,7 @@ public class Employee {
 		System.out.println("enter the no");
 		System.out.println("amma done");
 		System.out.println("appa done");
-		
+		System.out.println("**********");
 	}
 		
 	
